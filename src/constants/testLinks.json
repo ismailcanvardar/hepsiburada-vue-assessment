@@ -1,0 +1,39 @@
+{
+  "links": [
+    {
+      "id": "7b578626-67e0-4ee6-bfad-a20974acaee5",
+      "name": "Alphabet",
+      "url": "http://abc.xyz",
+      "points": 2,
+      "createdAt": "2021-07-16T19:25:34.628Z"
+    },
+    {
+      "id": "ab22e03c-b609-4de1-b35a-37338d105fb7",
+      "name": "Twitter",
+      "url": "http://twitter.com",
+      "points": -3,
+      "createdAt": "2021-07-16T19:25:24.686Z"
+    },
+    {
+      "id": "274829be-0aaa-4f9b-a80f-3bcf3cdb2d83",
+      "name": "LinkedIn",
+      "url": "http://linkedin.com",
+      "points": 5,
+      "createdAt": "2021-07-16T19:25:13.613Z"
+    },
+    {
+      "id": "0a1f6abc-1734-486f-85f7-008f5c69152d",
+      "name": "Instagram",
+      "url": "http://instagram.com",
+      "points": 1,
+      "createdAt": "2021-07-16T19:25:04.793Z"
+    },
+    {
+      "id": "04e8160c-2a31-44ad-9da7-9fecfcfd792c",
+      "name": "Facebook",
+      "url": "http://facebook.com",
+      "points": -1,
+      "createdAt": "2021-07-16T19:24:53.748Z"
+    }
+  ]
+}
